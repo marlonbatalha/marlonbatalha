@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Marlon Batalha
+# 👨🏿‍💻 Marlon Batalha
 
 **`Desenvolvedor FullStack`**
 
