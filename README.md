@@ -14,7 +14,7 @@
 
 ---
 
-Me chamo **Marlon Batalha Lemos dos Santos**, tenho 21 anos e sou Desenvolvedor Full Stack apaixonado por tecnologia. Minha trajetória começou antes mesmo de atuar profissionalmente — como entusiasta, construí uma base sólida em desenvolvimento web e serviços de nuvem.
+Me chamo **Marlon Batalha Lemos dos Santos**, tenho 22 anos e sou Desenvolvedor Full Stack apaixonado por tecnologia. Minha trajetória começou antes mesmo de atuar profissionalmente — como entusiasta, construí uma base sólida em desenvolvimento web e serviços de nuvem.
 
 Antes de migrar para o desenvolvimento, acumulei mais de **1 ano e meio de experiência em HelpDesk e Segurança da Informação**, o que me deu uma visão ampla do ecossistema de TI. Atualmente curso **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**, aprofundando ainda mais a base técnica que já aplico no dia a dia.
 
